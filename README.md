@@ -1,2 +1,5 @@
 # hello-world
-Repository for first test
+
+Hello reader,
+
+This is my first respository.  I plan on writing python scripts.
